@@ -1,0 +1,780 @@
+﻿No.,Symbol,Company Name,Market Cap ,Stock Price,% Change,Revenue
+1,RY,Royal Bank of Canada,235.79B,167.78,0.65%,56.51B
+2,TD,The Toronto-Dominion Bank,148.29B,85.33,0.60%,52.31B
+3,SHOP,Shopify Inc.,137.73B,108.84,1.82%,10.63B
+4,ENB,Enbridge Inc.,120.68B,54.94,-0.87%,43.52B
+5,BN,Brookfield Corporation,111.18B,71.98,2.14%,133.67B
+6,CP,Canadian Pacific Kansas City Limited,107.76B,115.46,0.59%,14.24B
+7,TRI,Thomson Reuters Corporation,104.65B,230.99,-0.73%,9.63B
+8,CNR,Canadian National Railway Company,99.06B,157.3,0.78%,17.04B
+9,CNQ,Canadian Natural Resources Limited,93.11B,43.97,-3.28%,36.74B
+10,CSU,Constellation Software Inc.,92.65B,"4,434.52",1.43%,12.69B
+11,BNS,The Bank of Nova Scotia,89.95B,73.82,1.54%,29.60B
+12,BMO,Bank of Montreal,88.00B,122.26,1.34%,31.41B
+13,NGT,Newmont Corporation,85.27B,74.85,0.40%,20.36B
+14,CM,Canadian Imperial Bank of Commerce,79.21B,83.86,0.29%,22.70B
+15,ATD,Alimentation Couche-Tard Inc.,71.03B,75.12,0.25%,98.76B
+16,MFC,Manulife Financial Corporation,69.54B,39.92,1.60%,28.48B
+17,WCN,"Waste Connections, Inc.",62.71B,240.64,-1.10%,11.53B
+18,SU,Suncor Energy Inc.,62.48B,49.18,-2.56%,50.73B
+19,TRP,TC Energy Corporation,59.92B,64.55,0.14%,16.50B
+20,AEM,Agnico Eagle Mines Limited,56.70B,113.31,-0.32%,10.00B
+21,L,Loblaw Companies Limited,54.02B,178.14,0.23%,60.32B
+22,IMO,Imperial Oil Limited,50.15B,92.66,-2.36%,52.48B
+23,ABX,Barrick Gold Corporation,48.91B,28.32,1.40%,16.19B
+24,IFC,Intact Financial Corporation,46.00B,259.26,0.54%,29.55B
+25,SLF,Sun Life Financial Inc.,44.86B,78.2,0.62%,31.95B
+26,NA,National Bank of Canada,43.62B,128.1,0.63%,10.61B
+27,BCE,BCE Inc.,42.92B,46.91,-0.30%,24.57B
+28,GWO,Great-West Lifeco Inc.,42.91B,46.05,0.59%,33.04B
+29,CVE,Cenovus Energy Inc.,40.74B,21.95,-4.32%,55.99B
+30,WPM,Wheaton Precious Metals Corp.,39.26B,86.53,-0.02%,1.55B
+31,DOL,Dollarama Inc.,38.49B,137.05,0.21%,6.09B
+32,FFH,Fairfax Financial Holdings Limited,37.08B,"1,679.43",0.01%,45.61B
+33,TECK.B,Teck Resources Limited,35.43B,71.94,5.51%,15.57B
+34,TECK.A,Teck Resources Limited,35.43B,71.75,5.04%,15.57B
+35,GIB.A,CGI Inc.,35.31B,156.78,2.14%,14.52B
+36,FNV,Franco-Nevada Corporation,33.67B,173.43,-0.90%,1.54B
+37,T,TELUS Corporation,33.19B,22.47,0.99%,19.91B
+38,PPL,Pembina Pipeline Corporation,32.17B,55.45,0.02%,9.48B
+39,NTR,Nutrien Ltd.,31.50B,65.57,3.00%,35.36B
+40,QSP.UN,Restaurant Brands International Limited Partnership,30.49B,94.2,-,10.23B
+41,QSR,Restaurant Brands International Inc.,30.36B,95.45,1.55%,10.23B
+42,FTS,Fortis Inc.,30.06B,61.13,0.71%,11.39B
+43,WN,George Weston Limited,29.64B,225.69,0.29%,60.93B
+44,RCI.B,Rogers Communications Inc.,29.53B,54,-0.48%,20.42B
+45,WSP,WSP Global Inc.,29.35B,238.45,1.32%,14.84B
+46,RCI.A,Rogers Communications Inc.,29.31B,59,1.72%,20.42B
+47,H,Hydro One Limited,27.95B,46.86,0.51%,8.11B
+48,CCO,Cameco Corporation,27.92B,64.75,0.92%,2.65B
+49,POW,Power Corporation of Canada,27.64B,43.26,0.35%,34.63B
+50,BAM,Brookfield Asset Management Ltd.,26.67B,63.45,-0.03%,-
+51,IVN,Ivanhoe Mines Ltd.,25.95B,20.31,5.73%,-
+52,GFL,GFL Environmental Inc.,21.37B,53.23,-2.24%,7.63B
+53,BIP.UN,Brookfield Infrastructure Partners L.P.,21.11B,47.5,3.60%,27.07B
+54,TOU,Tourmaline Oil Corp.,21.06B,59.04,-1.19%,4.80B
+55,RBA,"RB Global, Inc.",20.37B,108.78,-1.78%,5.78B
+56,MRU,Metro Inc.,18.94B,85.61,0.73%,21.35B
+57,BEP.UN,Brookfield Renewable Partners L.P.,18.00B,37.23,1.47%,7.49B
+58,TFII,TFI International Inc.,16.46B,192.62,-1.00%,10.97B
+59,K,Kinross Gold Corporation,16.16B,13.21,0.46%,6.19B
+60,BEPC,Brookfield Renewable Corporation,16.09B,43.29,0.65%,6.45B
+61,MG,Magna International Inc.,15.62B,56.84,4.52%,58.95B
+62,EMA,Emera Incorporated,15.57B,53.54,0.53%,7.35B
+63,FM,First Quantum Minerals Ltd.,15.17B,19.25,4.96%,7.55B
+64,CCL.A,CCL Industries Inc.,14.67B,83.38,2.07%,6.94B
+65,CCL.B,CCL Industries Inc.,14.63B,82.26,0.66%,6.94B
+66,ARX,ARC Resources Ltd.,13.39B,21.78,-3.03%,5.25B
+67,OVV,Ovintiv Inc.,13.01B,49.86,-4.79%,14.09B
+68,DAY,Dayforce Inc.,12.45B,81.18,1.48%,2.23B
+69,STN,Stantec Inc.,12.42B,109.05,0.17%,5.42B
+70,SAP,Saputo Inc.,12.26B,29.09,0.73%,17.74B
+71,X,TMX Group Limited,12.06B,43.14,-0.64%,3.06B
+72,DSG,The Descartes Systems Group Inc.,11.79B,141.35,2.47%,839.43M
+73,OTEX,Open Text Corporation,11.73B,45.32,1.84%,7.90B
+74,AGI,Alamos Gold Inc.,11.71B,27.53,-1.26%,1.53B
+75,PHYS,Sprott Physical Gold Trust,11.63B,27.94,0.47%,-
+76,EFN,Element Fleet Management Corp.,11.38B,28.67,1.67%,2.16B
+77,FSV,FirstService Corporation,11.00B,244.23,-0.06%,6.37B
+78,BNRE,Brookfield Reinsurance Ltd.,10.97B,63.93,-1.16%,12.67B
+79,PAAS,Pan American Silver Corp.,10.94B,30.14,2.17%,3.52B
+80,LUN,Lundin Mining Corporation,10.79B,14.5,4.39%,5.57B
+81,TIH,Toromont Industries Ltd.,10.69B,131.25,0.56%,4.78B
+82,WFG,West Fraser Timber Co. Ltd.,10.40B,129.39,1.05%,8.97B
+83,IAG,iA Financial Corporation Inc.,10.33B,111.3,1.17%,8.43B
+84,CIGI,Colliers International Group Inc.,10.24B,203.66,1.00%,6.07B
+85,GIL,Gildan Activewear Inc.,10.09B,64,1.09%,4.39B
+86,ALA,AltaGas Ltd.,9.96B,33.4,-0.18%,12.75B
+87,EMP.A,Empire Company Limited,9.78B,40.98,1.24%,30.87B
+88,CU,Canadian Utilities Limited,9.71B,36.01,0.76%,3.74B
+89,KEY,Keyera Corp.,9.68B,42.16,-0.24%,7.00B
+90,BBD.B,Bombardier Inc.,9.62B,99.7,2.42%,11.50B
+91,BBD.A,Bombardier Inc.,9.62B,96.88,-0.26%,11.50B
+92,IGM,IGM Financial Inc.,9.55B,40.99,1.44%,3.63B
+93,ATRL,AtkinsRéalis Group Inc.,9.40B,53.67,0.77%,9.11B
+94,CAR.UN,Canadian Apartment Properties Real Estate Investment Trust,9.27B,54.52,-0.57%,1.09B
+95,CTC,"Canadian Tire Corporation, Limited",9.05B,234.99,-1.12%,16.35B
+96,CTC.A,"Canadian Tire Corporation, Limited",9.05B,160.31,1.66%,16.35B
+97,BLCO,Bausch + Lomb Corporation,9.02B,25.61,-0.12%,6.15B
+98,BIPC,Brookfield Infrastructure Corporation,8.29B,57.95,1.01%,4.49B
+99,EDV,Endeavour Mining plc,8.24B,33.7,-0.30%,2.93B
+100,QBR.A,Quebecor Inc.,8.20B,35,-0.06%,5.67B
+101,QBR.B,Quebecor Inc.,8.15B,34.76,-0.77%,5.67B
+102,CLS,Celestica Inc.,8.10B,70.16,2.56%,12.02B
+103,CS,Capstone Copper Corp.,7.80B,10.9,6.24%,1.93B
+104,CAE,CAE Inc.,7.72B,24.92,3.02%,4.34B
+105,PSLV,Sprott Physical Silver Trust,7.35B,14.52,0.97%,-
+106,LUG,Lundin Gold Inc.,7.18B,29.93,0.74%,1.27B
+107,U.UN,Sprott Physical Uranium Trust Fund,7.14B,26.85,0.19%,-
+108,ONEX,Onex Corporation,7.02B,96.47,3.22%,1.50B
+109,MEG,MEG Energy Corp.,6.89B,24.36,-5.21%,5.62B
+110,CEF,Sprott Physical Gold and Silver Trust,6.83B,33.76,0.45%,1.25B
+111,BBU.UN,Brookfield Business Partners L.P.,6.75B,31.47,-0.08%,70.85B
+112,PSK,PrairieSky Royalty Ltd.,6.65B,27.16,-2.44%,492.60M
+113,CPX,Capital Power Corporation,6.63B,50.86,1.58%,3.88B
+114,NVEI,Nuvei Corporation,6.36B,44.85,-0.20%,1.79B
+115,DFY,Definity Financial Corporation,6.32B,54.99,-0.04%,4.03B
+116,WCP,Whitecap Resources Inc.,6.11B,9.93,-3.97%,3.37B
+117,REI.UN,RioCan Real Estate Investment Trust,6.11B,20.36,0.15%,1.23B
+118,FTT,Finning International Inc.,6.08B,43.94,5.40%,10.87B
+119,NPI,Northland Power Inc.,6.04B,23.42,2.49%,2.42B
+120,PKI,Parkland Corporation,6.02B,34.57,0.47%,30.92B
+121,AC,Air Canada,5.78B,16.67,3.41%,22.26B
+122,BTO,B2Gold Corp.,5.76B,4.45,1.37%,2.66B
+123,ATZ,Aritzia Inc.,5.70B,51.36,1.52%,2.37B
+124,SCR,Strathcona Resources Ltd.,5.70B,26.61,-3.20%,4.74B
+125,AQN,Algonquin Power & Utilities Corp.,5.63B,7.34,1.52%,3.60B
+126,DOO,BRP Inc.,5.62B,81.56,2.30%,9.03B
+127,PRMW,Primo Water Corporation,5.45B,32.71,-3.79%,2.53B
+128,ACO.X,ATCO Ltd.,5.39B,48.18,1.45%,4.72B
+129,ACO.Y,ATCO Ltd.,5.32B,46.8,-,4.72B
+130,VRN,Veren Inc.,5.26B,8.17,-4.33%,3.84B
+131,CWB,Canadian Western Bank,5.14B,54.3,2.14%,1.06B
+132,ELD,Eldorado Gold Corporation,5.08B,24.91,1.05%,1.51B
+133,NXE,NexGen Energy Ltd.,5.08B,8.99,0.22%,-
+134,GRT.UN,Granite Real Estate Investment Trust,5.07B,80.73,-0.04%,540.51M
+135,HBM,Hudbay Minerals Inc.,5.00B,12.7,7.63%,2.78B
+136,SJ,Stella-Jones Inc.,4.99B,87.63,-1.25%,3.46B
+137,CHP.UN,Choice Properties Real Estate Investment Trust,4.94B,15.06,-0.40%,1.44B
+138,OR,Osisko Gold Royalties Ltd,4.69B,25.6,1.71%,252.83M
+139,TFPM,Triple Flag Precious Metals Corp.,4.68B,23.38,0.60%,304.21M
+140,KXS,Kinaxis Inc.,4.46B,158.25,1.25%,626.45M
+141,BYD,Boyd Group Services Inc.,4.38B,203.98,-0.01%,4.17B
+142,ELF,E-L Financial Corporation Limited,4.37B,"1,298.00",-,3.16B
+143,FIL,Filo Corp.,4.32B,32.53,1.53%,-
+144,PBH,Premium Brands Holdings Corporation,4.28B,95.79,-0.49%,6.36B
+145,BEI.UN,Boardwalk Real Estate Investment Trust,4.26B,85.75,-0.55%,573.10M
+146,IMG,IAMGOLD Corporation,4.24B,7.44,-,1.71B
+147,CSH.UN,Chartwell Retirement Residences,4.20B,15.33,-0.97%,782.24M
+148,TA,TransAlta Corporation,4.17B,14.11,1.00%,3.17B
+149,BHC,Bausch Health Companies Inc.,4.01B,10.93,0.92%,12.59B
+150,EQB,EQB Inc.,3.98B,104.04,0.27%,1.12B
+151,DIR.UN,Dream Industrial Real Estate Investment Trust,3.97B,14.47,0.49%,480.64M
+152,FCR.UN,First Capital Real Estate Investment Trust,3.97B,18.78,0.43%,731.06M
+153,SRU.UN,SmartCentres Real Estate Investment Trust,3.89B,26.9,0.15%,939.90M
+154,LNR,Linamar Corporation,3.85B,63.83,2.06%,10.46B
+155,POU,Paramount Resources Ltd.,3.79B,25.48,-1.16%,1.79B
+156,ATS,ATS Corporation,3.77B,40.67,5.64%,2.97B
+157,CRT.UN,CT Real Estate Investment Trust,3.76B,15.97,-,566.11M
+158,EQX,Equinox Gold Corp.,3.72B,8.68,1.28%,1.50B
+159,TPZ,Topaz Energy Corp.,3.67B,24.81,-2.05%,325.17M
+160,MX,Methanex Corporation,3.67B,55.76,2.48%,4.90B
+161,GEI,Gibson Energy Inc.,3.66B,22.4,-0.49%,12.56B
+162,BLX,Boralex Inc.,3.64B,36.13,2.09%,959.00M
+163,STLC,Stelco Holdings Inc.,3.62B,66.74,0.26%,2.85B
+164,PRU,Perseus Mining Limited,3.40B,2.5,3.10%,1.40B
+165,TOY,Spin Master Corp.,3.39B,32.99,4.70%,2.66B
+166,NGD,New Gold Inc.,3.32B,4.2,-1.18%,1.11B
+167,CEE,Centamin plc,3.31B,2.85,1.79%,1.27B
+168,CIA,Champion Iron Limited,3.27B,6.46,8.57%,1.69B
+169,LSPD,Lightspeed Commerce Inc.,3.21B,22.11,4.54%,1.32B
+170,ERO,Ero Copper Corp.,3.06B,31.06,4.79%,608.33M
+171,BTE,Baytex Energy Corp.,3.06B,3.86,-5.39%,3.43B
+172,HR.UN,H&R Real Estate Investment Trust,3.03B,11.56,0.96%,1.03B
+173,SES,Secure Energy Services Inc.,3.00B,12.44,-1.43%,9.96B
+174,GSY,goeasy Ltd.,3.00B,177.92,-0.19%,794.25M
+175,CURA,"Curaleaf Holdings, Inc.",2.97B,4.1,2.50%,1.86B
+176,CRR.UN,Crombie Real Estate Investment Trust,2.91B,16,0.63%,453.36M
+177,CCA,Cogeco Communications Inc.,2.91B,70.09,1.20%,2.97B
+178,PEY,Peyto Exploration & Development Corp.,2.87B,14.65,-1.28%,901.99M
+179,WPK,Winpak Ltd.,2.86B,45.97,1.30%,1.52B
+180,OGC,OceanaGold Corporation,2.76B,3.93,0.77%,1.37B
+181,AP.UN,Allied Properties Real Estate Investment Trust,2.75B,19.88,0.91%,582.68M
+182,FIH.U,Fairfax India Holdings Corporation,2.72B,14.92,-0.27%,553.32M
+183,MFI,Maple Leaf Foods Inc.,2.68B,22.1,1.56%,4.85B
+184,ATH,Athabasca Oil Corporation,2.67B,4.71,-4.27%,1.31B
+185,CIX,CI Financial Corp.,2.63B,18.38,0.66%,3.50B
+186,DPM,Dundee Precious Metals Inc.,2.55B,14.17,0.28%,741.58M
+187,AIF,Altus Group Limited,2.53B,55.19,0.27%,783.05M
+188,SSL,Sandstorm Gold Ltd.,2.53B,8.43,-0.94%,232.68M
+189,KMP.UN,Killam Apartment REIT,2.52B,21.1,0.33%,356.70M
+190,AYA,Aya Gold & Silver Inc.,2.49B,19.1,3.13%,56.85M
+191,EIF,Exchange Income Corporation,2.46B,51.77,1.99%,2.61B
+192,NWC,The North West Company Inc.,2.46B,51.43,1.24%,2.52B
+193,BBUC,Brookfield Business Corporation,2.43B,34,1.16%,10.54B
+194,CGG,China Gold International Resources Corp. Ltd.,2.42B,6.22,1.97%,468.27M
+195,RUS,Russel Metals Inc.,2.36B,41.2,1.96%,4.26B
+196,FN,First National Financial Corporation,2.32B,39.2,1.14%,711.26M
+197,TXG,Torex Gold Resources Inc.,2.30B,26.97,0.71%,1.30B
+198,GLXY,Galaxy Digital Holdings Ltd.,2.30B,18.35,13.62%,-
+199,NVA,NuVista Energy Ltd.,2.27B,10.73,-2.98%,1.23B
+200,DML,Denison Mines Corp.,2.26B,2.52,-0.40%,4.03M
+201,NFI,NFI Group Inc.,2.23B,19.02,1.66%,4.21B
+202,CG,Centerra Gold Inc.,2.22B,10.49,3.86%,1.74B
+203,RCH,Richelieu Hardware Ltd.,2.20B,40.18,1.85%,1.80B
+204,TVE,Tamarack Valley Energy Ltd.,2.18B,3.8,-6.17%,1.48B
+205,FVI,Fortuna Mining Corp.,2.15B,6.87,1.78%,1.36B
+206,GMIN,G Mining Ventures Corp.,2.15B,10,-0.50%,-
+207,CJT,Cargojet Inc.,2.13B,138.38,5.18%,897.90M
+208,MAG,MAG Silver Corp.,2.12B,20.59,1.43%,-
+209,SEA,Seabridge Gold Inc.,2.12B,23.91,1.06%,-
+210,CXB,Calibre Mining Corp.,2.11B,2.68,0.75%,772.87M
+211,IPCO,International Petroleum Corporation,2.11B,16.5,-5.44%,1.21B
+212,NGEX,NGEx Minerals Ltd.,2.10B,11.67,5.61%,-
+213,LIF,Labrador Iron Ore Royalty Corporation,2.10B,33.42,1.86%,211.01M
+214,TLRY,"Tilray Brands, Inc.",2.08B,2.33,2.64%,1.08B
+215,FRU,Freehold Royalties Ltd.,2.08B,13.78,-2.75%,323.04M
+216,VET,Vermilion Energy Inc.,2.07B,12.87,-2.20%,1.81B
+217,INE,Innergex Renewable Energy Inc.,2.07B,10.54,3.64%,1.06B
+218,BB,BlackBerry Limited,2.04B,3.45,6.81%,851.35M
+219,TSU,Trisura Group Ltd.,2.03B,42.73,0.21%,3.07B
+220,LNF,Leon's Furniture Limited,2.03B,30,0.98%,2.53B
+221,MDA,MDA Space Ltd.,2.02B,17.19,2.14%,860.80M
+222,WDO,Wesdome Gold Mines Ltd.,1.97B,13.34,1.29%,400.64M
+223,KNT,K92 Mining Inc.,1.96B,8.24,-0.12%,295.24M
+224,SIL,SilverCrest Metals Inc.,1.96B,13.76,4.40%,357.95M
+225,NG,NovaGold Resources Inc.,1.96B,5.88,0.51%,-
+226,SPB,Superior Plus Corp.,1.92B,7.82,1.30%,3.30B
+227,CFP,Canfor Corporation,1.90B,16.42,2.31%,5.36B
+228,IIP.UN,InterRent Real Estate Investment Trust,1.89B,12.92,0.78%,245.13M
+229,TVK,TerraVest Industries Inc.,1.89B,95.32,-1.61%,855.09M
+230,PET,Pet Valu Holdings Ltd.,1.87B,25.95,1.72%,1.08B
+231,SVI,StorageVault Canada Inc.,1.85B,5.02,1.01%,295.52M
+232,OSK,Osisko Mining Inc.,1.85B,4.85,-0.21%,-
+233,ENGH,Enghouse Systems Limited,1.85B,34.12,2.34%,499.93M
+234,DCBO,Docebo Inc.,1.82B,60.62,0.61%,274.06M
+235,OLA,Orla Mining Ltd.,1.80B,5.61,0.36%,376.50M
+236,MEQ,Mainstreet Equity Corp.,1.77B,192.06,0.90%,238.63M
+237,FOM,Foran Mining Corporation,1.74B,4.4,6.28%,-
+238,CEU,CES Energy Solutions Corp.,1.67B,7.23,-6.10%,2.23B
+239,HPS.A,Hammond Power Solutions Inc.,1.62B,135.69,-6.81%,754.37M
+240,SSRM,SSR Mining Inc.,1.61B,8.26,3.77%,1.68B
+241,DNTL,dentalcorp Holdings Ltd.,1.57B,8.29,0.48%,1.47B
+242,SIA,Sienna Senior Living Inc.,1.56B,16.94,0.18%,844.19M
+243,SIS,Savaria Corporation,1.55B,21.73,1.02%,857.72M
+244,WTE,Westshore Terminals Investment Corporation,1.55B,25.08,1.09%,379.34M
+245,PMZ.UN,Primaris Real Estate Investment Trust,1.54B,16.09,0.69%,457.86M
+246,HUT,Hut 8 Corp.,1.54B,17.02,0.71%,235.39M
+247,AND,Andlauer Healthcare Group Inc.,1.52B,39.25,1.32%,648.41M
+248,AAV,Advantage Energy Ltd.,1.50B,8.84,-1.89%,501.15M
+249,HWX,Headwater Exploration Inc.,1.50B,6.33,-3.51%,484.24M
+250,GATO,"Gatos Silver, Inc.",1.50B,22.07,1.80%,-
+251,SII,Sprott Inc.,1.49B,60.44,3.30%,249.57M
+252,BIR,Birchcliff Energy Ltd.,1.48B,5.43,-1.45%,655.97M
+253,JWEL,Jamieson Wellness Inc.,1.46B,35.39,0.63%,684.71M
+254,TCL.A,Transcontinental Inc.,1.44B,17.23,1.23%,2.84B
+255,TCL.B,Transcontinental Inc.,1.44B,17.09,-0.06%,2.84B
+256,ASTL,Algoma Steel Group Inc.,1.42B,13.86,1.46%,2.62B
+257,GOOS,Canada Goose Holdings Inc.,1.42B,15.99,9.15%,1.34B
+258,NWH.UN,NorthWest Healthcare Properties Real Estate Investment Trust,1.41B,5.72,-0.17%,523.85M
+259,UNC,United Corporations Limited,1.41B,126.5,1.18%,421.33M
+260,MRC,Morguard Corporation,1.38B,127.07,-0.64%,1.19B
+261,EDR,Endeavour Silver Corp.,1.36B,5.78,4.33%,303.73M
+262,DRM,Dream Unlimited Corp.,1.36B,33.2,2.79%,576.89M
+263,ZCPB,BMO Mutual Funds - BMO Core Plus Bond Fund,1.34B,28.47,-,-
+264,SVM,Silvercorp Metals Inc.,1.31B,6.28,3.97%,311.16M
+265,BITF,Bitfarms Ltd.,1.30B,2.97,3.13%,236.37M
+266,TIXT,TELUS International (Cda) Inc.,1.30B,4.85,2.97%,3.65B
+267,BDGI,Badger Infrastructure Solutions Ltd.,1.29B,37.51,0.51%,981.45M
+268,IE,Ivanhoe Electric Inc.,1.29B,11.88,10.82%,3.84M
+269,ARE,Aecon Group Inc.,1.27B,20.66,1.97%,4.07B
+270,BDT,Bird Construction Inc.,1.27B,23.39,2.27%,3.14B
+271,MTL,Mullen Group Ltd.,1.26B,14.24,-0.90%,1.96B
+272,ALS,Altius Minerals Corporation,1.26B,27.03,1.92%,62.38M
+273,CHE.UN,Chemtrade Logistics Income Fund,1.25B,10.9,1.68%,1.77B
+274,SKE,Skeena Resources Limited,1.23B,11.52,-0.52%,-
+275,KEL,Kelt Exploration Ltd.,1.23B,6.06,-3.50%,415.74M
+276,EFR,Energy Fuels Inc.,1.22B,7.51,-0.40%,62.41M
+277,KRR,Karora Resources Inc.,1.21B,6.7,2.45%,435.05M
+278,PXT,Parex Resources Inc.,1.20B,11.72,-1.92%,1.66B
+279,LAS.A,Lassonde Industries Inc.,1.20B,174,-1.14%,2.38B
+280,PD,Precision Drilling Corporation,1.19B,81.73,-3.28%,1.91B
+281,ZZZ,Sleep Country Canada Holdings Inc.,1.18B,34.95,0.03%,953.56M
+282,LB,Laurentian Bank of Canada,1.18B,27.26,1.56%,947.10M
+283,ORA,Aura Minerals Inc.,1.17B,16.22,0.43%,686.30M
+284,ARIS,Aris Mining Corporation,1.14B,6.64,-1.04%,638.14M
+285,CRON,Cronos Group Inc.,1.13B,2.95,4.61%,139.29M
+286,CYB,Cymbria Corporation,1.12B,71.85,-0.21%,-
+287,SFTC,Softchoice Corporation,1.11B,18.52,0.65%,1.04B
+288,SOY,SunOpta Inc.,1.08B,9.22,1.65%,941.64M
+289,MTY,MTY Food Group Inc.,1.08B,45.44,2.78%,1.16B
+290,HRX,Héroux-Devtek Inc.,1.08B,31.95,-,663.07M
+291,WELL,WELL Health Technologies Corp.,1.08B,4.4,1.85%,910.42M
+292,DND,Dye & Durham Limited,1.07B,15.67,-1.69%,457.70M
+293,CR,Crew Energy Inc.,1.06B,6.74,-1.89%,304.96M
+294,PRL,Propel Holdings Inc.,1.06B,31.05,1.04%,523.42M
+295,CVG,Clairvest Group Inc.,1.05B,70,-1.41%,38.72M
+296,PSI,Pason Systems Inc.,1.03B,12.92,-0.31%,387.00M
+297,CAS,Cascades Inc.,1.03B,10.18,1.09%,4.63B
+298,AFN,Ag Growth International Inc.,1.03B,54.49,1.23%,1.46B
+299,CJ,Cardinal Energy Ltd.,1.02B,6.36,-0.63%,513.51M
+300,ADEN,ADENTRA Inc.,1.02B,42.07,3.42%,2.95B
+301,IFP,Interfor Corporation,1.01B,19.79,1.23%,3.20B
+302,EFX,Enerflex Ltd.,992.36M,7.9,-1.25%,3.25B
+303,TKO,Taseko Mines Limited,964.98M,3.56,8.21%,582.21M
+304,MATR,Mattr Corp.,953.76M,14.2,-1.39%,914.49M
+305,GCG,Guardian Capital Group Limited,946.77M,40.69,-,251.52M
+306,GCG.A,Guardian Capital Group Limited,946.77M,40.78,-1.45%,251.52M
+307,CPLF,Copperleaf Technologies Inc.,943.38M,11.99,0.08%,94.14M
+308,TCW,Trican Well Service Ltd.,943.21M,4.84,1.04%,991.15M
+309,CMG,Computer Modelling Group Ltd.,933.90M,11.33,-0.70%,118.45M
+310,PLC,Park Lawn Corporation,904.87M,26.48,-0.04%,448.21M
+311,ET,Evertz Technologies Limited,902.25M,11.86,0.17%,500.44M
+312,RUP,Rupert Resources Ltd.,895.43M,4.34,4.58%,-
+313,FSZ,Fiera Capital Corporation,874.50M,8.09,3.06%,702.61M
+314,TPX.B,Molson Coors Canada Inc.,873.36M,73.68,-,2.89B
+315,AAUC,Allied Gold Corporation,852.51M,3.3,-0.30%,995.06M
+316,FCU,Fission Uranium Corp.,850.18M,1.03,4.04%,-
+317,MRE,Martinrea International Inc.,849.73M,11.71,2.27%,5.30B
+318,GDI,GDI Integrated Facility Services Inc.,844.33M,35.96,-0.80%,2.52B
+319,SGR.UN,Slate Grocery REIT,835.51M,14.34,1.49%,286.14M
+320,CF,Canaccord Genuity Group Inc.,834.57M,8.85,2.67%,1.46B
+321,AX.UN,Artis Real Estate Investment Trust,830.13M,8,0.13%,200.81M
+322,CGI,"Canadian General Investments, Limited",824.02M,39.5,-,201.31M
+323,CTS,Converge Technology Solutions Corp.,818.01M,4.48,6.67%,2.64B
+324,AD.UN,Alaris Equity Partners Income Trust,807.59M,17.86,0.62%,215.71M
+325,SEC,Senvest Capital Inc.,802.82M,328,-,162.84M
+326,SFC,Sagicor Financial Company Ltd.,795.74M,5.6,-1.06%,2.56B
+327,LAC,Lithium Americas Corp.,795.70M,3.65,11.28%,-
+328,PPTA,Perpetua Resources Corp.,791.05M,13.61,11.19%,-
+329,AOI,Africa Oil Corp.,788.57M,1.73,-2.81%,-
+330,EXE,Extendicare Inc.,782.92M,9.38,0.54%,1.39B
+331,CUP.U,"Caribbean Utilities Company, Ltd.",739.84M,13.99,-2.85%,393.83M
+332,RSI,Rogers Sugar Inc.,736.80M,5.8,0.69%,1.21B
+333,PBL,Pollard Banknote Limited,730.22M,27.1,0.41%,528.21M
+334,MRG.UN,Morguard North American Residential Real Estate Investment Trust,714.82M,19.31,0.36%,344.99M
+335,DHT.UN,DRI Healthcare Trust,711.69M,12.66,6.12%,265.05M
+336,DHT.U,DRI Healthcare Trust,711.69M,8.92,0.11%,265.05M
+337,FEC,Frontera Energy Corporation,710.55M,7.96,-5.69%,1.58B
+338,DTOL,D2L Inc.,694.20M,12.75,-1.32%,264.31M
+339,TF,Timbercreek Financial Corp.,684.83M,8.25,1.35%,86.86M
+340,MKP,MCAN Mortgage Corporation,684.28M,17.93,0.34%,131.16M
+341,MDI,Major Drilling Group International Inc.,679.28M,8.43,1.57%,697.85M
+342,MI.UN,Minto Apartment Real Estate Investment Trust,675.79M,16.97,0.24%,157.96M
+343,CGX,Cineplex Inc.,675.07M,10.6,0.95%,1.30B
+344,BLDP,Ballard Power Systems Inc.,673.67M,2.37,5.33%,142.70M
+345,SDE,Spartan Delta Corp.,672.02M,3.63,-6.44%,289.70M
+346,NOA,North American Construction Group Ltd.,670.77M,24.74,-1.04%,1.09B
+347,DBM,Doman Building Materials Group Ltd.,669.48M,7.76,1.17%,2.46B
+348,MUX,McEwen Mining Inc.,663.03M,13.7,6.12%,254.28M
+349,REAL,Real Matters Inc.,660.91M,9.06,0.67%,231.70M
+350,AR,Argonaut Gold Inc.,659.92M,0.52,4.00%,551.40M
+351,HOM.U,BSR Real Estate Investment Trust,639.28M,14.01,-1.89%,230.47M
+352,HOM.UN,BSR Real Estate Investment Trust,638.28M,19.11,-,230.47M
+353,NXR.UN,Nexus Industrial REIT,634.56M,8.94,-0.78%,167.21M
+354,LAAC,Lithium Americas (Argentina) Corp.,632.33M,4.4,12.53%,-
+355,WFC,Wall Financial Corporation,626.62M,19.47,-0.10%,186.46M
+356,MNT,Royal Canadian Mint - Canadian Gold Reserves,623.63M,36.87,0.33%,-
+357,APR.UN,Automotive Properties Real Estate Investment Trust,613.19M,12.5,1.46%,93.60M
+358,TAL,PetroTal Corp.,602.81M,0.62,-6.06%,440.51M
+359,KEC,Kiwetinohk Energy Corp.,600.44M,13.6,-1.09%,459.22M
+360,TCS,Tecsys Inc.,598.79M,40.49,-1.63%,171.54M
+361,URE,Ur-Energy Inc.,597.75M,1.62,-1.82%,21.69M
+362,BDI,Black Diamond Group Limited,597.51M,9.78,-,389.97M
+363,SGY,Surge Energy Inc.,596.89M,5.95,-1.49%,570.31M
+364,VNP,5N Plus Inc.,596.59M,6.73,0.45%,366.26M
+365,GUD,Knight Therapeutics Inc.,596.00M,5.85,-0.85%,337.87M
+366,SOLG,SolGold Plc,591.00M,0.2,-,-
+367,ALC,Algoma Central Corporation,590.26M,14.75,1.37%,697.39M
+368,IAU,i-80 Gold Corp.,588.95M,1.6,4.58%,74.79M
+369,CVO,Coveo Solutions Inc.,588.56M,6.1,0.99%,174.88M
+370,OBE,Obsidian Energy Ltd.,587.57M,7.51,-3.47%,683.80M
+371,FVL,Freegold Ventures Limited,587.47M,1.28,6.67%,-
+372,ECN,ECN Capital Corp.,579.11M,2.1,1.94%,143.40M
+373,SLS,Solaris Resources Inc.,564.61M,3.69,6.03%,-
+374,AW.UN,A&W Revenue Royalties Income Fund,556.65M,35.1,1.47%,55.27M
+375,CGY,Calian Group Ltd.,553.36M,46.8,0.04%,741.39M
+376,WJX,Wajax Corporation,546.78M,25.75,2.35%,2.10B
+377,CHR,Chorus Aviation Inc.,544.03M,2.74,1.11%,1.72B
+378,CGO,Cogeco Inc.,543.04M,58.47,2.45%,3.07B
+379,MAL,Magellan Aerospace Corporation,538.25M,9.29,-1.38%,914.74M
+380,AGF.B,AGF Management Limited,537.57M,8.3,-3.49%,517.17M
+381,ISV,Information Services Corporation,521.55M,28.78,0.07%,236.35M
+382,GAU,Galiano Gold Inc.,521.55M,1.99,-1.97%,130.92M
+383,AI,Atrium Mortgage Investment Corporation,512.48M,11.59,0.43%,56.76M
+384,TSND,TerrAscend Corp.,511.69M,1.77,1.14%,457.08M
+385,WEED,Canopy Growth Corporation,509.18M,6.11,2.17%,287.10M
+386,PMET,Patriot Battery Metals Inc.,506.60M,3.87,8.10%,-
+387,VCM,Vecima Networks Inc.,499.00M,20.4,-0.63%,291.05M
+388,SOIL,Saturn Oil & Gas Inc.,495.76M,2.36,-2.88%,680.72M
+389,RAY.B,Stingray Group Inc.,490.95M,7.26,-,355.51M
+390,RAY.A,Stingray Group Inc.,490.95M,7.24,0.84%,355.51M
+391,DIV,Diversified Royalty Corp.,483.12M,2.96,1.37%,61.87M
+392,ESI,Ensign Energy Services Inc.,476.21M,2.58,-1.90%,1.70B
+393,FTN,Financial 15 Split Corp.,466.53M,8.44,-0.12%,197.86M
+394,VBNK,VersaBank,464.76M,17.93,0.17%,113.82M
+395,BLN,Blackline Safety Corp.,460.59M,5.64,-1.05%,121.63M
+396,VLE,Valeura Energy Inc.,455.82M,4.03,-5.40%,772.72M
+397,GGD,GoGold Resources Inc.,448.16M,1.38,1.47%,43.51M
+398,JAG,Jaguar Mining Inc.,444.90M,5.54,-1.42%,198.25M
+399,TWC,TWC Enterprises Limited,444.63M,18.24,-1.51%,266.81M
+400,VHI,Vitalhub Corp.,441.07M,8.67,1.52%,58.32M
+401,QBTC,The Bitcoin Fund,437.61M,85.79,2.84%,-
+402,DXT,Dexterra Group Inc.,437.10M,6.83,2.09%,1.17B
+403,PHX,PHX Energy Services Corp.,437.03M,9.15,-2.66%,655.05M
+404,PLZ.UN,Plaza Retail REIT,433.77M,3.93,0.77%,120.65M
+405,PZA,Pizza Pizza Royalty Corp.,430.44M,13.32,1.83%,40.47M
+406,GTWO,G2 Goldfields Inc.,427.48M,1.83,2.23%,530.65K
+407,GBT,BMTC Group Inc.,425.10M,13.4,2.21%,581.31M
+408,ACB,Aurora Cannabis Inc.,424.71M,7.77,3.19%,278.98M
+409,FC,Firm Capital Mortgage Investment Corporation,419.13M,11.71,2.63%,45.43M
+410,TBL,Taiga Building Products Ltd.,412.35M,3.83,0.26%,1.65B
+411,MHC.U,Flagship Communities Real Estate Investment Trust,407.06M,15.54,2.24%,106.85M
+412,URC,Uranium Royalty Corp.,407.04M,3.35,-2.05%,42.71M
+413,PAY,Payfare Inc.,405.59M,8.35,-1.07%,205.11M
+414,KSI,"kneat.com, inc.",397.10M,4.67,1.08%,40.66M
+415,MARI,Marimaca Copper Corp.,393.97M,3.99,2.31%,-
+416,ETG,Entrée Resources Ltd.,392.54M,1.96,1.55%,-
+417,MRD,Melcor Developments Ltd.,392.43M,13.13,1.78%,333.37M
+418,GRA,NanoXplore Inc.,378.75M,2.22,-,129.99M
+419,HLF,High Liner Foods Incorporated,375.14M,12.38,-1.35%,1.36B
+420,ACQ,AutoCanada Inc.,373.51M,16.66,3.35%,6.16B
+421,ORE,Orezone Gold Corporation,372.90M,0.82,1.23%,337.25M
+422,MRT.UN,Morguard Real Estate Investment Trust,368.33M,5.73,1.42%,258.49M
+423,BPF.UN,Boston Pizza Royalties Income Fund,367.69M,17.28,-0.97%,49.24M
+424,D.UN,Dream Office Real Estate Investment Trust,364.12M,22.29,-2.19%,199.21M
+425,CSW.A,Corby Spirit and Wine Limited,364.00M,12.88,0.08%,229.66M
+426,CSW.B,Corby Spirit and Wine Limited,364.00M,12.3,-0.81%,229.66M
+427,NUAG,New Pacific Metals Corp.,363.53M,2.09,-1.42%,-
+428,BK,Canadian Banc Corp.,363.48M,11.45,-0.09%,96.94M
+429,ARR,Altius Renewable Royalties Corp.,363.29M,11.8,-,-
+430,KBL,K-Bro Linen Inc.,362.99M,34.69,-0.89%,343.05M
+431,TOT,Total Energy Services Inc.,360.92M,9.29,-1.17%,863.79M
+432,PRV.UN,Pro Real Estate Investment Trust,349.49M,5.86,-0.34%,99.97M
+433,PNE,Pine Cliff Energy Ltd.,347.32M,0.98,1.03%,181.26M
+434,RPI.UN,Richards Packaging Income Fund,346.73M,31.65,0.16%,415.52M
+435,III,Imperial Metals Corporation,346.40M,2.2,2.80%,382.33M
+436,QRC,Queen's Road Capital Investment Ltd.,346.37M,0.76,-,157.04M
+437,NEO,Neo Performance Materials Inc.,339.86M,8.31,2.09%,677.80M
+438,CPH,Cipher Pharmaceuticals Inc.,339.82M,13.28,-6.81%,30.33M
+439,WRN,Western Copper and Gold Corporation,338.95M,1.67,-2.34%,-
+440,HTL,Hamilton Thorne Ltd.,335.51M,2.17,-0.46%,99.33M
+441,MSA,Mineros S.A.,334.75M,1.25,-0.79%,656.04M
+442,CFW,Calfrac Well Services Ltd.,333.75M,3.81,-2.06%,1.66B
+443,DRX,ADF Group Inc.,333.69M,11.16,-0.09%,352.82M
+444,CKI,Clarke Inc.,333.16M,23.88,-,81.07M
+445,GLO,Global Atomic Corporation,331.31M,1.44,-0.69%,932.90K
+446,FFN,North American Financial 15 Split Corp.,327.97M,6,-,205.81M
+447,DR,Medical Facilities Corporation,327.88M,13.72,-0.80%,605.32M
+448,ECOR,Ecora Resources PLC,326.84M,1.31,4.80%,93.92M
+449,LIRC,Lithium Royalty Corp.,325.55M,5.9,0.68%,8.43M
+450,SPLT,Brompton Split Corp. Preferred Share ETF,316.91M,10.65,-0.09%,-
+451,BTB.UN,BTB Real Estate Investment Trust,316.52M,3.6,0.28%,128.06M
+452,PRB,Probe Gold Inc.,315.20M,1.76,1.15%,-
+453,DSV,Discovery Silver Corp.,315.15M,0.76,-3.80%,-
+454,ENS,E Split Corp.,312.10M,12.6,-1.49%,31.24M
+455,MND,Mandalay Resources Corporation,311.44M,3.32,-0.60%,287.50M
+456,ADN,Acadian Timber Corp.,309.52M,17.64,-0.06%,120.41M
+457,CNL,Collective Mining Ltd.,309.16M,4.49,-0.88%,-
+458,XTC,Exco Technologies Limited,306.30M,8.01,0.88%,642.50M
+459,TC,Tucows Inc.,302.55M,28.25,2.80%,480.13M
+460,ERE.UN,European Residential Real Estate Investment Trust,301.09M,3.27,0.62%,143.46M
+461,KITS,Kits Eyecare Ltd.,299.54M,9.83,3.58%,135.45M
+462,MPC,Madison Pacific Properties Inc.,298.64M,5.36,3.47%,43.16M
+463,ARG,Amerigo Resources Ltd.,293.77M,1.81,2.26%,231.71M
+464,DGS,Dividend Growth Split Corp.,293.41M,6.87,1.03%,85.68M
+465,STEP,STEP Energy Services Ltd.,277.36M,3.72,-3.88%,1.00B
+466,SYZ,Sylogist Ltd.,267.16M,11.46,0.26%,66.64M
+467,WILD,WildBrain Ltd.,263.90M,1.29,3.20%,461.82M
+468,ITE,i3 Energy Plc,262.89M,0.22,2.33%,226.85M
+469,PIF,Polaris Renewable Energy Inc.,259.00M,12.25,-0.33%,105.28M
+470,OGI,Organigram Holdings Inc.,254.06M,2.39,2.14%,149.21M
+471,GOLD,GoldMining Inc.,252.99M,1.34,-2.19%,-
+472,AIM,Aimia Inc.,252.53M,2.66,0.76%,396.20M
+473,PRYM,Prime Mining Corp.,252.39M,1.67,-3.47%,-
+474,STC,Sangoma Technologies Corporation,251.53M,7.5,-,338.45M
+475,GTE,Gran Tierra Energy Inc.,250.90M,8.47,2.79%,900.64M
+476,BANK,Evolve Canadian Banks and Lifecos Enhanced Yield Index Fund,249.16M,7.91,0.64%,-
+477,PRN,Profound Medical Corp.,247.02M,10.6,5.05%,10.78M
+478,ECO,EcoSynthetix Inc.,246.09M,4.19,0.24%,19.86M
+479,NDM,Northern Dynasty Minerals Ltd.,239.29M,0.46,2.25%,-
+480,OLY,Olympia Financial Group Inc.,237.05M,98.51,-,103.18M
+481,GDC,Genesis Land Development Corp.,232.82M,4.11,0.24%,276.06M
+482,TSAT,Telesat Corporation,229.23M,15.97,-2.14%,645.60M
+483,GH,Gamehost Inc.,220.02M,10.39,0.10%,83.54M
+484,TNZ,Tenaz Energy Corp.,219.58M,7.94,-1.12%,62.56M
+485,SBC,Brompton Split Banc Corp.,219.36M,9.89,0.41%,35.31M
+486,CEW,iShares Equal Weight Banc & Lifeco ETF,218.88M,19.5,0.78%,-
+487,ERD,Erdene Resource Development Corporation,216.15M,0.62,-,-
+488,LEV,The Lion Electric Company,214.91M,0.89,-6.32%,310.04M
+489,ASM,Avino Silver & Gold Mines Ltd.,214.69M,1.58,-0.63%,71.21M
+490,FCD.UN,Firm Capital Property Trust,213.43M,5.8,0.35%,59.98M
+491,FAR,Foraco International SA,212.96M,2.22,2.78%,460.72M
+492,URB,Urbana Corporation,211.12M,5.13,0.59%,127.34M
+493,URB.A,Urbana Corporation,211.12M,5.1,3.45%,127.34M
+494,LUC,Lucara Diamond Corp.,207.22M,0.44,-2.22%,244.07M
+495,AII,Almonty Industries Inc.,206.89M,0.81,1.25%,25.64M
+496,AIDX,Healwell AI Inc.,203.31M,1.4,3.70%,13.58M
+497,DII.B,Dorel Industries Inc.,201.68M,6.17,-1.28%,1.93B
+498,SPPP,Sprott Physical Platinum and Palladium Trust,200.43M,13.75,1.25%,-
+499,CRDL,Cardiol Therapeutics Inc.,198.46M,2.87,1.06%,-
+500,VOXR,Vox Royalty Corp.,197.98M,3.99,1.53%,16.74M
+501,PTM,Platinum Group Metals Ltd.,197.79M,2.05,6.22%,-
+502,MXG,Maxim Power Corp.,196.70M,3.92,0.77%,93.23M
+503,GIVX,Givex Corp.,196.05M,1.48,-,83.84M
+504,DNG,Dynacor Group Inc.,195.64M,5.37,-,361.53M
+505,AMC,Arizona Metals Corp.,195.41M,1.7,4.29%,-
+506,QTRH,Quarterhill Inc.,191.66M,1.76,6.02%,207.24M
+507,STGO,Steppe Gold Ltd.,189.62M,0.74,-1.33%,-
+508,FRX,Fennec Pharmaceuticals Inc.,189.44M,6.7,-,66.91M
+509,DLCG,Dominion Lending Centres Inc.,187.37M,4.05,3.85%,67.76M
+510,TNT.UN,True North Commercial Real Estate Investment Trust,186.20M,12.95,-1.07%,130.45M
+511,THNC,Thinkific Labs Inc.,184.13M,2.65,-1.85%,85.81M
+512,ADW.B,Andrew Peller Limited,181.83M,4.86,-,384.84M
+513,ADW.A,Andrew Peller Limited,181.13M,4.02,-0.50%,384.84M
+514,FORA,VerticalScope Holdings Inc.,181.06M,8.39,-0.47%,88.65M
+515,IPO,InPlay Oil Corp.,180.24M,1.94,-3.00%,152.45M
+516,EDT,Spectral Medical Inc.,180.08M,0.64,3.23%,1.90M
+517,VLN,Velan Inc.,177.00M,8.2,-7.34%,486.60M
+518,BRAG,Bragg Gaming Group Inc.,174.87M,7.01,-2.10%,138.73M
+519,KEG.UN,The Keg Royalties Income Fund,172.35M,15.24,0.40%,33.79M
+520,ASCU,Arizona Sonoran Copper Company Inc.,170.93M,1.65,5.77%,-
+521,PRQ,Petrus Resources Ltd.,169.15M,1.37,0.74%,92.21M
+522,ALYA,Alithya Group Inc.,168.72M,1.77,0.57%,480.41M
+523,GDV,Global Dividend Growth Split Corp.,168.71M,10.79,0.37%,-
+524,SMT,Sierra Metals Inc.,167.01M,0.77,-2.53%,326.09M
+525,FDY,Faraday Copper Corp.,166.32M,0.84,3.70%,-
+526,ITH,International Tower Hill Mines Ltd.,165.75M,0.79,-4.82%,-
+527,QIPT,Quipt Home Medical Corp.,165.03M,3.83,2.96%,334.27M
+528,WEF,Western Forest Products Inc.,164.71M,0.48,-7.69%,1.03B
+529,LAM,Laramide Resources Ltd.,159.34M,0.64,-4.48%,-
+530,GXE,Gear Energy Ltd.,158.15M,0.57,-5.00%,134.93M
+531,PYR,PyroGenesis Canada Inc.,157.67M,0.85,-1.16%,14.14M
+532,CXI,"Currency Exchange International, Corp.",156.58M,24.59,-0.12%,117.39M
+533,SHLE,Source Energy Services Ltd.,156.45M,11.35,-1.73%,625.02M
+534,KEI,Kolibri Global Energy Inc.,156.17M,4.2,-3.89%,74.44M
+535,DRR.U,Dream Residential Real Estate Investment Trust,155.36M,7.24,-1.03%,33.77M
+536,DCM,DATA Communications Management Corp.,154.31M,2.7,-3.23%,507.69M
+537,RBY,Rubellite Energy Inc.,153.44M,2.24,-1.32%,106.10M
+538,JOY,Journey Energy Inc.,152.15M,2.39,-3.63%,179.72M
+539,PCOR,PIMCO Managed Core Bond Pool,151.59M,18.55,-0.11%,-
+540,LGO,Largo Inc.,148.74M,2.58,11.21%,217.48M
+541,LGD,Liberty Gold Corp.,148.65M,0.38,-2.56%,-
+542,FSY,Forsys Metals Corp.,148.33M,0.79,3.95%,-
+543,TRX,TRX Gold Corporation,148.17M,0.54,-1.82%,50.10M
+544,BOS,AirBoss of America Corp.,145.15M,5.35,1.33%,538.90M
+545,DF,Dividend 15 Split Corp. II,143.98M,5.94,0.51%,-
+546,HAI,Haivision Systems Inc.,143.62M,5.03,-0.98%,135.12M
+547,MDNA,Medicenna Therapeutics Corp.,141.57M,1.88,2.17%,-
+548,DRT,DIRTT Environmental Solutions Ltd.,140.87M,0.73,-2.67%,249.80M
+549,XTRA,Xtract One Technologies Inc.,139.78M,0.64,-,12.49M
+550,PBY.UN,Canso Credit Trust - Canso Credit Income Fund,139.67M,15.32,0.13%,-
+551,FTG,Firan Technology Group Corporation,139.43M,5.81,-0.51%,150.37M
+552,BNE,Bonterra Energy Corp.,137.36M,3.58,-2.72%,264.78M
+553,TXP,Touchstone Exploration Inc.,137.15M,0.58,-3.33%,66.27M
+554,PNC.B,Postmedia Network Canada Corp.,134.68M,1.36,-,404.05M
+555,Y,Yellow Pages Limited,133.13M,9.67,-0.10%,224.79M
+556,BRE,Bridgemarq Real Estate Services Inc.,132.96M,14.17,1.07%,145.58M
+557,FF,First Mining Gold Corp.,130.05M,0.14,-,-
+558,DC.A,Dundee Corporation,128.65M,1.44,-0.69%,6.44M
+559,MNO,Meridian Mining UK Societas,127.68M,0.42,-1.18%,-
+560,EPRX,Eupraxia Pharmaceuticals Inc.,127.53M,3.63,1.40%,-
+561,GCL,Colabor Group Inc.,127.52M,1.24,-0.80%,653.50M
+562,GEO,Geodrill Limited,126.87M,2.7,0.37%,186.41M
+563,GFP,GreenFirst Forest Products Inc.,126.08M,0.74,4.23%,386.32M
+564,XAU,Goldmoney Inc.,125.32M,9.59,0.95%,78.99M
+565,PSD,Pulse Seismic Inc.,124.34M,2.35,-3.69%,37.04M
+566,GDL,Goodfellow Inc.,123.35M,14.72,1.24%,510.24M
+567,TWM,Tidewater Midstream and Infrastructure Ltd.,122.59M,0.29,1.75%,1.99B
+568,MGA,Mega Uranium Ltd.,122.42M,0.33,-,-
+569,E,"Enterprise Group, Inc.",122.04M,2.01,-1.47%,38.07M
+570,STLR,STLLR Gold Inc.,122.00M,1.19,0.85%,-
+571,CNE,Canacol Energy Ltd,121.10M,3.53,-0.56%,465.16M
+572,VGZ,Vista Gold Corp.,119.61M,1.03,5.10%,-
+573,SBI,Serabi Gold plc,117.79M,1.56,-1.27%,103.81M
+574,AOT,Ascot Resources Ltd.,116.56M,0.16,-3.03%,2.42M
+575,EXRO,Exro Technologies Inc.,115.80M,0.32,14.55%,11.09M
+576,QEC,Questerre Energy Corporation,115.70M,0.28,3.70%,34.25M
+577,RCG,RF Capital Group Inc.,113.98M,7.24,-1.23%,318.61M
+578,USA,Americas Gold and Silver Corporation,113.95M,0.43,2.38%,117.75M
+579,CRRX,CareRx Corporation,111.76M,1.87,0.54%,366.55M
+580,HLS,HLS Therapeutics Inc.,111.28M,3.6,2.86%,80.60M
+581,NOVC,Nova Cannabis Inc.,108.02M,1.73,-0.57%,268.56M
+582,TMQ,Trilogy Metals Inc.,107.57M,0.66,-1.49%,-
+583,NEXT,NextSource Materials Inc.,105.96M,0.65,-4.41%,-
+584,WPRT,Westport Fuel Systems Inc.,104.45M,6,-0.83%,445.49M
+585,SRV.UN,SIR Royalty Income Fund,104.02M,12.34,1.40%,10.90M
+586,RS,Real Estate Split Corp.,103.90M,13.38,-0.22%,-
+587,MNS,Royal Canadian Mint - Canadian Silver Reserves,103.82M,24.15,0.92%,-
+588,XAM,Xanadu Mines Limited,102.84M,0.07,8.33%,-
+589,ANRG,Anaergia Inc.,102.05M,0.59,3.51%,115.92M
+590,FAP,abrdn Asia-Pacific Income Fund VCC,100.99M,2.74,-,11.37M
+591,HMM.A,Hammond Manufacturing Company Limited,100.88M,8.96,0.62%,235.41M
+592,YGR,Yangarra Resources Ltd.,100.71M,1.02,-,145.00M
+593,ELVA,Electrovaya Inc.,99.67M,2.91,-0.34%,67.73M
+594,TLG,Troilus Gold Corp.,97.31M,0.33,-2.94%,-
+595,CDR,Condor Energies Inc.,97.12M,1.71,0.59%,21.77M
+596,SXP,Supremex Inc.,97.01M,3.96,0.25%,284.70M
+597,TTNM,Titanium Transportation Group Inc.,96.76M,2.22,3.26%,459.99M
+598,FURY,Fury Gold Mines Limited,95.42M,0.62,-1.59%,-
+599,ONC,Oncolytics Biotech Inc.,94.71M,1.22,-0.81%,-
+600,STCK,Stack Capital Group Inc.,92.80M,10.45,3.88%,2.00M
+601,WRG,Western Energy Services Corp.,91.38M,2.65,-1.85%,216.27M
+602,ILLM,illumin Holdings Inc.,90.79M,1.76,-1.68%,120.79M
+603,WNDR,WonderFi Technologies Inc.,90.78M,0.14,-,53.38M
+604,DYA,dynaCERT Inc.,89.86M,0.2,2.56%,1.02M
+605,CRP,Ceres Global Ag Corp.,86.79M,2.79,-3.46%,1.26B
+606,KPT,KP Tissue Inc.,85.63M,8.45,-1.52%,-
+607,ROOT,Roots Corporation,85.33M,2.12,-,256.98M
+608,BGI.UN,Brookfield Global Infrastructure Securities Income Fund,84.38M,5.29,1.73%,-
+609,TLO,Talon Metals Corp.,84.12M,0.1,5.56%,-
+610,ARA,Aclara Resources Inc.,83.20M,0.5,-,-
+611,MID.UN,MINT Income Fund,82.62M,7.5,0.54%,11.75M
+612,G,Augusta Gold Corp.,81.72M,0.86,-7.53%,-
+613,GRID,Tantalus Systems Holding Inc.,80.34M,1.57,-0.63%,55.63M
+614,SVA,Sernova Corp.,79.70M,0.24,-2.04%,-
+615,SLR,Solitario Resources Corp.,78.97M,0.93,-4.12%,-
+616,IS,Infrastructure Dividend Split Corp.,78.76M,15.28,1.13%,-
+617,ELO,Eloro Resources Ltd.,78.69M,0.95,-3.06%,-
+618,BYL,Baylin Technologies Inc.,78.58M,0.54,3.85%,75.08M
+619,COG,Condor Gold Plc,77.94M,0.41,2.50%,-
+620,NANO,Nano One Materials Corp.,77.90M,0.97,38.57%,-
+621,TH,Theratechnologies Inc.,77.25M,1.68,5.00%,112.65M
+622,WM,Wallbridge Mining Company Limited,76.22M,0.07,-6.67%,-
+623,S,Sherritt International Corporation,75.48M,0.19,-,151.40M
+624,LCFS,Tidewater Renewables Ltd.,74.45M,2.05,-,323.10M
+625,MPCT.UN,Dream Impact Trust,73.89M,4.09,-0.24%,-5.09M
+626,RBN.UN,Blue Ribbon Income Fund,73.23M,8.63,0.35%,9.83M
+627,PIC.A,Premium Income Corporation,72.45M,4.34,-0.23%,21.10M
+628,PNP,Pinetree Capital Ltd.,69.93M,7.45,-0.53%,14.09M
+629,TSL,Tree Island Steel Ltd.,68.94M,2.62,-0.76%,210.87M
+630,TRZ,Transat A.T. Inc.,68.77M,1.75,-0.57%,3.26B
+631,XTG,Xtra-Gold Resources Corp.,66.31M,1.52,2.70%,-
+632,SAU,St. Augustine Gold and Copper Limited,65.74M,0.07,-,-
+633,CCBI,CIBC Canadian Bond Index Fund,63.91M,18.38,-0.05%,-
+634,MDP,Medexus Pharmaceuticals Inc.,63.70M,2.58,-0.39%,148.88M
+635,FGEP,Fidelity Global Equity+ Fund,63.14M,10.44,0.87%,-
+636,MCB,McCoy Global Inc.,62.79M,2.31,2.67%,73.03M
+637,MR.UN,Melcor Real Estate Investment Trust,62.74M,4.84,-,73.55M
+638,BUI,Buhler Industries Inc.,60.00M,2.4,-,264.38M
+639,LN,Loncor Gold Inc.,59.53M,0.41,5.19%,-
+640,EAGR,East Side Games Group Inc.,59.52M,0.73,4.29%,82.77M
+641,CFX,Canfor Pulp Products Inc.,59.36M,0.92,1.10%,825.00M
+642,AKT.A,AKITA Drilling Ltd.,58.61M,1.5,-1.32%,186.77M
+643,HBP,Helix BioPharma Corp.,58.34M,1.19,-,-
+644,ORV,Orvana Minerals Corp.,58.06M,0.42,-2.35%,124.98M
+645,CCM,Canagold Resources Ltd.,57.58M,0.33,-,-
+646,QQQY,Evolve NASDAQ Technology Enhanced Yield Index Fund,56.35M,26.19,1.04%,-
+647,GENM,Generation Mining Limited,55.58M,0.25,4.26%,-
+648,GURU,GURU Organic Energy Corp.,55.17M,1.81,-0.55%,30.77M
+649,MSCL,Satellos Bioscience Inc.,54.77M,0.46,-5.15%,-
+650,ATCU,Alta Copper Corp.,53.89M,0.6,-1.64%,-
+651,BRMI,Boat Rocker Media Inc.,53.32M,0.94,-,374.86M
+652,ICE,Canlan Ice Sports Corp.,52.95M,3.95,-0.50%,89.90M
+653,HOT.UN,American Hotel Income Properties REIT LP,52.29M,0.66,1.54%,382.79M
+654,LCS,Brompton Lifeco Split Corp.,51.92M,8.54,2.52%,16.35M
+655,TVA.B,TVA Group Inc.,51.85M,1.23,2.50%,543.45M
+656,DS,Dividend Select 15 Corp.,50.63M,6.51,-0.91%,-
+657,GMX,Globex Mining Enterprises Inc.,47.09M,0.84,-,4.79M
+658,MBX,Microbix Biosystems Inc.,45.65M,0.34,-,23.36M
+659,IGAF,IA Clarington Loomis Global Allocation Fund,45.31M,15.25,2.08%,-
+660,RTG,RTG Mining Inc.,45.15M,0.04,14.29%,-
+661,AVCN,Avicanna Inc.,44.09M,0.33,-13.16%,24.87M
+662,TGO,TeraGo Inc.,44.03M,2.25,1.81%,26.08M
+663,XLY,Auxly Cannabis Group Inc.,43.90M,0.04,-,109.54M
+664,IMP,Intermap Technologies Corporation,43.90M,0.88,-2.22%,10.79M
+665,PEA,Pieridae Energy Limited,42.98M,0.25,-,272.28M
+666,CEMX,CEMATRIX Corporation,39.11M,0.26,-,54.81M
+667,MOGO,Mogo Inc.,39.09M,1.62,0.62%,41.20M
+668,NPS,Canadian Large Cap Leaders Split Corp.,39.00M,13.15,1.15%,-
+669,TSK,Talisker Resources Ltd.,38.20M,0.4,2.56%,-
+670,MIN,Excelsior Mining Corp.,37.85M,0.14,16.67%,2.66M
+671,INO.UN,Inovalis Real Estate Investment Trust,36.83M,1.13,-,11.76M
+672,WCM.A,Wilmington Capital Management Inc.,36.78M,2.6,-,3.40M
+673,PPR,Prairie Provident Resources Inc.,35.81M,0.05,-10.00%,54.09M
+674,ELR,Eastern Platinum Limited,35.41M,0.18,2.86%,118.75M
+675,ACD,Accord Financial Corp.,34.36M,3.99,-0.25%,28.80M
+676,MPVD,Mountain Province Diamonds Inc.,33.96M,0.15,-9.38%,286.31M
+677,CJR.B,Corus Entertainment Inc.,33.90M,0.17,-2.86%,1.34B
+678,SBR,Silver Bear Resources Plc,33.89M,0.05,-,16.20M
+679,SWP,Swiss Water Decaffeinated Coffee Inc.,33.79M,3.59,1.13%,155.97M
+680,AEG,Aegis Brands Inc.,33.26M,0.39,-,18.75M
+681,IFA,iFabric Corp.,32.72M,1.08,-2.70%,23.35M
+682,NPK,Verde AgriTech Limited,32.66M,0.64,3.23%,27.98M
+683,VGCX,Victoria Gold Corp.,32.51M,0.48,-,403.34M
+684,CWL,The Caldwell Partners International Inc.,31.92M,1.06,-1.85%,90.12M
+685,CWEB,"Charlotte's Web Holdings, Inc.",31.50M,0.2,8.11%,74.66M
+686,BCT,BriaCell Therapeutics Corp.,31.32M,0.98,-3.92%,-
+687,NVO,Novo Resources Corp.,30.80M,0.09,-,-
+688,EVO,Evovest Global Equity Fund,30.74M,21.32,0.33%,-
+689,PMT,Perpetual Energy Inc.,30.47M,0.43,-5.56%,37.15M
+690,TI,Titan Mining Corporation,30.00M,0.22,-,76.77M
+691,SOT.UN,Slate Office REIT,29.34M,0.37,1.39%,199.65M
+692,LABS,MediPharm Labs Corp.,28.77M,0.07,-7.14%,37.76M
+693,AVL,Avalon Advanced Materials Inc.,28.40M,0.05,-,99.00K
+694,FT,Fortune Minerals Limited,27.95M,0.05,-9.09%,-
+695,INC.UN,Income Financial Trust,26.84M,7.95,-0.63%,5.11M
+696,UNI,Unisync Corp.,26.24M,1.38,-,90.56M
+697,LSPK,LifeSpeak Inc.,25.13M,0.47,10.59%,50.67M
+698,DIAM,Star Diamond Corporation,24.70M,0.04,-,-
+699,FANS,FansUnite Entertainment Inc.,24.62M,0.07,-,23.72M
+700,WRX,Western Resources Corp.,24.49M,0.06,-,-
+701,BEK.B,The Becker Milk Company Limited,23.96M,13.25,6.77%,2.80M
+702,EGLX,Enthusiast Gaming Holdings Inc.,23.37M,0.15,-,130.73M
+703,OPT,Optiva Inc.,23.11M,4.19,12.63%,64.14M
+704,SGNL,Signal Gold Inc.,22.96M,0.09,-,-
+705,GRC,Gold Springs Resource Corp.,22.64M,0.09,6.25%,-
+706,OGD,Orbit Garant Drilling Inc.,22.42M,0.55,-8.33%,181.24M
+707,BU,Burcon NutraScience Corporation,22.03M,0.16,-,420.98K
+708,DBO,D-BOX Technologies Inc.,22.02M,0.1,-,37.87M
+709,RAV.UN,Ravensource Fund,21.40M,16.81,1.82%,3.46M
+710,FOOD,Goodfood Market Corp.,21.39M,0.28,-,156.00M
+711,MMP.UN,Precious Metals and Mining Trust,20.08M,1.88,-2.59%,-2.83M
+712,BSX,Belo Sun Mining Corp,19.73M,0.05,-,-
+713,VRTS,Vertiqal Studios Corp.,19.19M,0.02,-20.00%,4.65M
+714,SFD,NXT Energy Solutions Inc.,19.12M,0.31,22.00%,2.75M
+715,YRB,Yorbeau Resources Inc.,18.46M,0.04,-,60.33K
+716,ELEF,Silver Elephant Mining Corp.,18.44M,0.48,-4.00%,-
+717,XTD,TDb Split Corp.,17.05M,2.39,3.91%,1.64M
+718,ESM,Euro Sun Mining Inc.,17.02M,0.05,-10.00%,-
+719,CHW,Chesswood Group Limited,16.94M,0.9,-,97.38M
+720,PME,Sentry Select Primary Metals Corp.,16.41M,2.45,1.66%,-2.57M
+721,PRM,Big Pharma Split Corp.,16.18M,14.36,0.35%,3.50M
+722,CFF,Conifex Timber Inc.,16.10M,0.4,-,146.54M
+723,BNK,Big Banc Split Corp.,15.95M,12.12,1.85%,-
+724,RVX,Resverlogix Corp.,15.27M,0.05,-9.09%,-
+725,NCF,Northcliff Resources Ltd.,15.17M,0.03,-,-
+726,GVC,Glacier Media Inc.,15.08M,0.12,-,146.68M
+727,WLLW,Willow Biosciences Inc.,14.42M,0.1,-,1.84M
+728,HWO,High Arctic Energy Services Inc,14.32M,1.15,-,66.12M
+729,BKI,Black Iron Inc.,13.69M,0.05,-,-
+730,FLOW,Flow Beverage Corp.,12.51M,0.17,-,43.77M
+731,CSBI,CIBC Canadian Short-Term Bond Index Fund,12.39M,20.65,-,-
+732,EXN,Excellon Resources Inc.,12.37M,0.13,13.64%,-
+733,BNG,Bengal Energy Ltd.,12.13M,0.02,-20.00%,6.68M
+734,CTX,Crescita Therapeutics Inc.,11.82M,0.6,-1.64%,16.84M
+735,AVNT,Avant Brands Inc.,11.60M,1.1,-,27.70M
+736,KLS,Kelso Technologies Inc.,11.16M,0.21,-,16.08M
+737,SAM,Starcore International Mines Ltd.,10.95M,0.14,-3.45%,30.97M
+738,FCEM,Fidelity Funds - Fidelity Emerging Markets Fund,10.54M,10.61,3.21%,-
+739,ADCO,Adcore Inc.,10.53M,0.18,-,31.07M
+740,MSV,Minco Silver Corporation,10.37M,0.17,-,-
+741,VQS,VIQ Solutions Inc.,10.33M,0.21,2.50%,57.41M
+742,GRN,Greenlane Renewables Inc.,10.03M,0.07,7.69%,62.06M
+743,APS,Aptose Biosciences Inc.,9.96M,0.55,-,-
+744,NUMI,Numinus Wellness Inc.,9.62M,0.04,16.67%,22.48M
+745,AMM,Almaden Minerals Ltd.,9.61M,0.07,-7.14%,-
+746,FTHI,Fidelity Funds - Fidelity Tactical High Income Fund,9.60M,10.29,-0.39%,-
+747,IVQ,Invesque Inc.,8.71M,0.14,-9.68%,244.33M
+748,SXI,Synex Renewable Energy Corporation,8.32M,1.79,1.13%,2.76M
+749,CTF.UN,Citadel Income Fund,8.16M,2.6,3.17%,3.14M
+750,UTES,Evolve Canadian Utilities Enhanced Yield Index Fund,8.14M,10.17,0.10%,-
+751,KRN,Karnalyte Resources Inc.,7.99M,0.14,-10.00%,-
+752,BRY,Bri-Chem Corp.,7.80M,0.3,9.26%,94.08M
+753,CRWN,Crown Capital Partners Inc.,7.71M,1.36,-1.45%,55.58M
+754,BR,Big Rock Brewery Inc.,7.70M,1.09,-0.91%,41.45M
+755,SGLD,Sabre Gold Mines Corp.,7.17M,0.1,5.56%,-
+756,SVB,"Silver Bull Resources, Inc.",6.60M,0.14,-3.57%,-
+757,ASND,Ascendant Resources Inc.,6.53M,0.04,-,-
+758,BABY,Else Nutrition Holdings Inc.,6.29M,0.03,-7.14%,8.83M
+759,FINO,Franklin Innovation Fund,5.92M,23.69,-0.42%,-
+760,TMD,Titan Medical Inc.,5.70M,0.05,-9.09%,615.89K
+761,AUMN,Golden Minerals Company,5.36M,0.38,2.74%,3.85M
+762,SCY,Scandium International Mining Corp.,5.32M,0.02,-,-
+763,ENI.UN,Energy Income Fund,5.14M,1.69,0.60%,726.28K
+764,AAB,Aberdeen International Inc.,5.07M,0.04,-12.50%,-8.90M
+765,FCSI,Franklin ClearBridge Sustainable International Growth Fund,4.50M,22.5,-,-
+766,NCP,Nickel Creek Platinum Corp.,4.32M,0.85,2.41%,-
+767,YCM,New Commerce Split Fund,3.90M,4.84,11.26%,-
+768,APLI,Appili Therapeutics Inc.,3.64M,0.03,-,827.41K
+769,FWCP,Franklin Western Asset Core Plus Bond Fund,3.57M,17.46,-,-
+770,ATSX,Accelerate Canadian Long Short Equity Fund,3.10M,24.8,-0.24%,-
+771,CNT,Century Global Commodities Corporation,2.96M,0.03,-,12.82M
+772,MKZ.UN,Mackenzie Master Limited Partnership,2.76M,0.44,-,830.74K
+773,RTI,Radient Technologies Inc.,2.70M,-,-,3.15M
+774,SMC,Sulliden Mining Capital Inc.,1.96M,0.02,-,-
+775,TXT.UN,Top 10 Split Trust,1.55M,3.1,-,932.59K
+776,AXIS,Axis Auto Finance Inc.,1.21M,0.01,-,8.11M
+777,SBN,Mulvihill S Split Corp.,1.08M,2.63,-4.36%,22.05K
+778,GRO,Franklin Growth Etf Portfolio,1.06M,0.05,-9.09%,-
+779,IOM,Assure Holdings Corp.,116.91K,5.4,-7.69%,-5.70M
