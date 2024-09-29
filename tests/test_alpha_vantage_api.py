@@ -1,3 +1,7 @@
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 
 from src.data_pull.alpha_vantage_api import fetch_daily_stock_data, fetch_intraday_stock_data
 

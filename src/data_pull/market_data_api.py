@@ -12,7 +12,6 @@ import json
 from datetime import datetime, timedelta
 from config.api_keys import MARKET_DATA_API_KEY
 
-
 class api_token:
     def __init__(self, API_KEY):
         self.API_KEY = API_KEY
@@ -72,17 +71,17 @@ Limit :
 # from_ = str(datetime.now().date() - timedelta(days=5*365))
 
 
-def fetch_daily_stock_data(symbol, limit = 10000, from_ = None, to = None, exchange = None, country = None): 
+def fetch_stock_data(symbol, limit = 10000, resolution = "D", from_ = None, to = None, exchange = None, country = None): 
     #Candles
     # Set default values for 'from_' and 'to' if not provided
     if from_ is None:
-        from_ = str((datetime.now().date() - timedelta(days=5*365)))
+        from_ = str((datetime.now().date() - timedelta(days=0.9*365)))
     if to is None:
         to = str(datetime.now().date())
 
     file_format = 'json' # csv or json
 
-    URL = f"https://api.marketdata.app/v1/stocks/candles/D/{symbol}?from={from_}&to={to}&limit={limit}&format={file_format}"
+    URL = f"https://api.marketdata.app/v1/stocks/candles/{resolution}/{symbol}?from={from_}&to={to}&limit={limit}&format={file_format}"
 
     # if country is not None:
     #     URL = URL + f"&country={country}"
@@ -136,8 +135,8 @@ def fetch_daily_stock_data(symbol, limit = 10000, from_ = None, to = None, excha
 
 if __name__ == "__main__": 
     pass
-    # symbol = "AAPL"  # Example stock symbol
-    # data = fetch_daily_stock_data(symbol)
+    # symbol = "TSLA"  # Example stock symbol
+    # data = fetch_stock_data(symbol, resolution="3", limit=50000, from_="2024-02-03",to="2024-09-09")
     # print(data)
     # print("Stock Data:", data)
     # print(data)
