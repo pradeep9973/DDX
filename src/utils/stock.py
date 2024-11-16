@@ -30,6 +30,8 @@ class Stock:
             interval (str): The interval of the data (1d, 1wk, 1mo)
             period (str): The period of the data (1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max)
         """
+        if not hasattr(self, "yf"):
+            self.load_yfinance()
         if interval == "1m":
             period = "7d"
             return self.yf.history(interval="1d", period=period)
@@ -76,6 +78,25 @@ class Stock:
             from_ = datetime.strptime(from_, '%Y-%m-%d').date() if from_ else to - timedelta(days=365)
 
         return fetch_stock_data(self.ticker, resolution=interval, from_=str(from_), to=str(to), limit=50000)
+    
+    def generate_rolling_windows(self, window_size=60):
+        """
+        Generate a list of DataFrames, each containing a rolling window of data.
+        
+        Args:
+        data (pd.DataFrame): The original DataFrame.
+        window_size (int): The size of each window.
+        
+        Returns:
+        List[pd.DataFrame]: A list of DataFrames, each containing a rolling window of data.
+        """
+        data = self.get_price_history_yf()
+        rolling_windows = []
+        for start in range(len(data) - window_size + 1):
+            end = start + window_size
+            rolling_windows.append(data.iloc[start:end])
+        return rolling_windows
+
                 
 
     def __str__(self):
@@ -85,3 +106,20 @@ class Stock:
 # Example usage:
 if __name__ == "__main__":
     pass
+
+
+# class stock_snapshot: it will give a snapshot of a particular window of the stock data, but will have other details as well, it will also have methods to calculate parameters like moving average and other which are helpful for building alphas 
+
+class stock_snapshot:
+    def __init__(self, ticker, price_data, ancillary_info = None ):
+        self.ticker = ticker
+        self.price_data = price_data
+        self.ancillary_info = ancillary_info
+
+
+    def __str__(self):
+        """Return a string representation of the stock price data."""
+        return f"Stock Data: {self.symbol}, Info: {self.ancillary_info}"
+
+
+
