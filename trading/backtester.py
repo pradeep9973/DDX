@@ -34,12 +34,16 @@ class BackTest:
             signal = self.alpha.generate_signal()
             if signal == 'buy':
                 self.buy += 1
+                trade_amount = 100
+                self.trading_system.execute_order(self.stock.ticker,signal,trade_amount,snapshot.price_data['Close'].iloc[-1])
             elif signal == 'sell':
                 self.sell += 1
-            if signal != old_signal:
-                self.trading_system.execute_order(self.stock.ticker,signal,100,snapshot.price_data['Close'].iloc[-1])
-                # print the order
-                print(  f"Order: {signal} 100 shares of {self.stock.ticker} at {snapshot.price_data['Close'].iloc[-1]}")
+                trade_amount = 300
+                self.trading_system.execute_order(self.stock.ticker,signal,trade_amount,snapshot.price_data['Close'].iloc[-1])
+            # if signal != old_signal:
+                # self.trading_system.execute_order(self.stock.ticker,signal,100,snapshot.price_data['Close'].iloc[-1])
+            # print the order
+            print(  f"Order: {signal} {trade_amount} shares of {self.stock.ticker} at {snapshot.price_data['Close'].iloc[-1]}")
         return #signals
     
     def calculate_performance(self):

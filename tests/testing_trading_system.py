@@ -5,7 +5,7 @@ from alphas.alpha import Alpha
 from alphas.movingaverage_crossover import MovingAverageCrossoverAlpha
 from trading.backtester import BackTest
 
-tsla = Stock('TSLA')
+tsla = Stock('MSFT')
 
 ts = TradingSystem()
 tsla_ma = MovingAverageCrossoverAlpha()
